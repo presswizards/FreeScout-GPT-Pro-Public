@@ -4,4 +4,4 @@
 https://github.com/presswizards/FreeScout-GPT-Pro-Public/raw/refs/heads/main/FreeScout-GPT-Pro-main.zip
 
 ## Changelog:
-https://github.com/presswizards/FreeScout-GPT-Pro-Public/blob/main/changelog.txt
+https://raw.githubusercontent.com/presswizards/FreeScout-GPT-Pro-Public/refs/heads/main/changelog.txt
