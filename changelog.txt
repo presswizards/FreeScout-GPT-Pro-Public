@@ -1,29 +1,18 @@
 v2.0
-<ul><li>
 FreeScout GPT Pro is the new Pro module that offers direct integration with other FreeScout modules, such as Knowledgebase and Saved Replies, and goes above and beyond what the free module offers, with advanced features such as caching or indexing in OpenAI of remote URLs, with premium technical support included.
-</li></ul>
 
 v1.0.25
-<ul><li>
 Adds new OpenAI Responses API settings: Enable/Disable, Articles text area, and Responses Prompt. Disabling will ensure it uses the current Chat Completions API calls. A big thanks to Lewis Downey for sponsoring the Responses API development and testing.
-</li></ul>
+
 
 1.0.24
-  <ul><li>
-  Fix so it no longer filters out models gpt-4.1* from being listed as available in the module settings drop-down.
-  </li></ul>
+Fix so it no longer filters out models gpt-4.1* from being listed as available in the module settings drop-down.
 
 1.0.23
-  <ul><li>
-  Add dynamic loading of available models based on the OpenAI API key entered, filtering out non-chat-completion models like audio or visual, real-time, etc, as well as old and more expensive models like gpt-3.5 etc.
-  </li></ul>
+Add dynamic loading of available models based on the OpenAI API key entered, filtering out non-chat-completion models like audio or visual, real-time, etc, as well as old and more expensive models like gpt-3.5 etc.
 
 1.0.22
-  <ul><li>
-  Don't filter out o1 and o3* models from the settings drop-down. Adjust roles used when submitting system prompt to work with reasoning models.
-  </li></ul>
+Don't filter out o1 and o3* models from the settings drop-down. Adjust roles used when submitting system prompt to work with reasoning models.
 
 1.0.21
-  <ul><li>
-  Fix JS issues, rename and clean up codebase, I think it's working again. Add module versioning support, and FreeScout added support for updates from remote URLs using module.json version.
-  </li></ul>
+Fix JS issues, rename and clean up codebase, I think it's working again. Add module versioning support, and FreeScout added support for updates from remote URLs using module.json version.
