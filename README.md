@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/376262e3-00a2-4b06-a16d-ef572c34cd80" width="200">
+<img src="https://github.com/user-attachments/assets/b501fec8-2daa-4075-a00e-e7be243219a7" width="200">
 
 # FreeScout GPT Pro Module
 
