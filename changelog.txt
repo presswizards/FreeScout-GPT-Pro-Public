@@ -1,5 +1,17 @@
+v2.0.1
+Settings page edits, add KB and Support widget, GPT Answer buttons repositioned and improved mobile display of GPT Answers.
+
 v2.0
 FreeScout GPT Pro is the new Pro module that offers direct integration with other FreeScout modules, such as Knowledgebase and Saved Replies, and goes above and beyond what the free module offers, with advanced features such as caching or indexing in OpenAI of remote URLs, with premium technical support included.
+
+v1.0.28
+Adds newlines to reply button injected answers.
+
+v1.0.27
+Fixes max_completion_tokens error when using Responses API
+
+v1.0.26
+Adds better settings checks to prevent "Undefined array key" errors if DB migrations were not completed during the module update.
 
 v1.0.25
 Adds new OpenAI Responses API settings: Enable/Disable, Articles text area, and Responses Prompt. Disabling will ensure it uses the current Chat Completions API calls. A big thanks to Lewis Downey for sponsoring the Responses API development and testing.
