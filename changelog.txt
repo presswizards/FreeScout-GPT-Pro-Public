@@ -1,3 +1,6 @@
+v2.0.2
+Fix not null error on Enable column with fresh activations, and should resolve license already activated issue as well. 
+
 v2.0.1
 Settings page edits, add KB and Support widget, GPT Answer buttons repositioned and improved mobile display of GPT Answers.
 
