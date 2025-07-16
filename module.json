@@ -2,7 +2,7 @@
     "name": "FreeScout GPT Pro",
     "alias": "freescoutgptpro",
     "description": "FreeScout GPT Pro is the new Pro module that offers direct integration with other FreeScout modules, such as Knowledgebase and Saved Replies, and goes above and beyond what the free module offers, with advanced features such as caching or indexing in OpenAI of remote URLs, with premium technical support included.",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "detailsUrl": "https://5starplugins.com/freescout-gpt-pro/",
     "img": "https://github.com/user-attachments/assets/b501fec8-2daa-4075-a00e-e7be243219a7",
     "author": "5 Star Plugins",
