@@ -1,3 +1,6 @@
+v2.0.3
+Fix non-array count error, adds non-array checking before count.
+
 v2.0.2
 Fix not null error on Enable column with fresh activations, and should resolve license already activated issue as well. 
 
