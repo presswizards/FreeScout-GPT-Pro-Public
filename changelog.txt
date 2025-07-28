@@ -1,3 +1,6 @@
+v2.0.4
+Update no settings message. Fix preg_replace for PHP 8.1+ deprecation warning.
+
 v2.0.3
 Fix non-array count error, adds non-array checking before count.
 
