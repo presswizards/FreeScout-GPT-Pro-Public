@@ -1,3 +1,5 @@
+v2.0.8: Add "Activate New License" button to settings page.
+
 v2.0.7: Adjust the module composer and code to avoid PHP 7.x errors.
 
 v2.0.6: Add Regenerate Embeddings and Content Cache button. Add icon to delete generated answers.
