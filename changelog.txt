@@ -1,4 +1,6 @@
-v2.1: Adds gpt-5
+v2.1.1: Fixes Delete Answer confirmation bug in mobile displays, now confirms via red X 2nd click.
+
+v2.1: Adds gpt-5.
 
 v2.0.8: Add "Activate New License" button to settings page.
 
