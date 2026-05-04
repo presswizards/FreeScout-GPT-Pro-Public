@@ -18,7 +18,7 @@ v2.1: Adds gpt-5.
 
 v2.0.8: Add "Activate New License" button to settings page.
 
-v2.0.7: Adjust the module composer and code to avoid PHP 7.x errors.
+v2.0.7: Adjust composer requirements to work in PHP7.x, and fix Controller file to remove PHP8.x-only code that would break PHP7.x installations.
 
 v2.0.6: Add Regenerate Embeddings and Content Cache button. Add icon to delete generated answers.
 
