@@ -1,3 +1,5 @@
+v2.2.4: Improve AI provider error handling across Generate Answer and related flows: surface sanitized provider response details for 404/400/422 issues, improve logging context for support debugging, fix app bar toggle behavior, clarify embedding provider URL guidance, pre-fill gateway/embedding provider keys in settings, correct embedding-section display logic, and add validation coverage for the improved error messaging.
+
 v2.2.3: Fix additional subfolder install path issues by making settings and module JavaScript requests/assets subfolder-safe (including license validation/deactivation and AI endpoints).
 
 v2.2.2: Store and display Freemius User ID from activation response for support lookup, and show a masked license key format in License Information.
